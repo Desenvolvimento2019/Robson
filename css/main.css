@@ -25,3 +25,23 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     padding-left: 15px;
     padding-right: 15px;
 }
+
+#topo {
+   height: 200px;
+   background-color: blue;
+}
+
+#banner {
+   height: 350px;
+   background-color: aqua;
+}
+
+#corpo {
+   height: 800px;
+   background-color: red;
+}
+
+#rodape {
+   height: 500px;
+   background-color: blueviolet;
+}
